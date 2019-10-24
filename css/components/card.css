@@ -1,0 +1,20 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-white {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding: 20px;
+}
+
+.card-white img {
+  height: 100px;
+}
+
+.container > h2 {
+  text-align: center;
+}

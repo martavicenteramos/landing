@@ -1,0 +1,32 @@
+.footer {
+  background: #2c2b2b;
+  background-size: cover;
+  text-align: center;
+  padding: 60px;
+  margin-top: 60px;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.footer p i {
+  color: #BF0F12;
+  font-size: 15px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+li {
+  display: inline-block;
+  padding: 5px;
+}
+
+
+i {
+  color: #1EDD88;
+  font-size: 30px
+}
